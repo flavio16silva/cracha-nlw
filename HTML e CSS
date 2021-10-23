@@ -1,0 +1,24 @@
+<!-- HTML -->
+<!--hyper Text mackup language-->
+<!--language: é uma linguagem que segue regras-->
+<!--mackup porque usamos tags para marcar os textos-->
+<!--hyper Text: hyper links e hyper textos. usando imagens, links e textos-->
+<!-- é a parte estrutural da aplicação-->
+<!-- href: é uma referencia. é um link interno ou externo-->
+<!-- target _blank: usado para abrir os links em outras paginas-->
+
+
+
+<!-- CSS -->
+<!--é a apresentação visual ao cliente-->
+<!-- é formado por seletores-->
+<!-- efeito cascata irá pegar o ultimo valor que aparecer em suas declarações-->
+<!-- Especificidade: quem tem a maior força quando é atribuída na estrutura-->
+<!-- Exemplo: Tem maior importancia: <h1 teste> do que <h1> teste, em qualquer local da estrutura-->
+<!-- isso acima é chamado de estilo em linha. Deve ser evitado, porque só poderei subscrever dentro e não fora nas outras linhas-->
+<!-- As tags que não tem conteudo tem fechamento nelas mesmas. Ou seja, só tem atributos-->
+<!-- Background: relacionado ao fundo-->
+<!--Conceito de Box Models são definidos pelas medidas da caixa: larguras, alturas, preenchimentos. E também o espaçamento fora da caixa-->
+<!--Variaveis: permite a mudança nas linhas do CSS e já vemos as alterações na pagina atualizadas-->
+<!--hsl: referente as cores e suas propriedades. Saturação, Luz e etc-->
+<!-- O rem tem uma relação direta com o pixel com a fonte padrão da página-->
